@@ -1,0 +1,126 @@
+body {
+	overflow: hidden;
+
+background-color:#236ba7;
+}
+.slides{
+	
+}
+.uxlogo {
+	text-align: center;
+	margin:5% 0;
+}
+#home{
+	margin: 20px;
+}
+/*.ascensorFloor{
+overflow: hidden;
+}*/
+#home h1{
+	color: #edeced;
+    font-family: 'StagBook';
+    font-size: 2.8em;
+    font-weight: normal;
+    line-height: 0.9;
+    margin-bottom: -10px;
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+}
+#home h3{
+	color: #edeced;
+	font-family: 'Staglight';
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-bottom: -1.7em;
+	padding-right: 1.4em;
+	text-align: center;
+}
+#home button{
+	background-color: #9cb9d1;
+    border: 0 solid black;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 0 black;
+    color: #2f2966;
+    font-family: 'StagLight';
+    font-size: 1.5em;
+    font-weight: normal;
+    margin: 2%;
+    padding: 0.3em;
+    width: 34%;
+}
+#arw img{
+	width: auto;
+}
+#arw{
+	text-align: center;
+	margin-bottom: 5px;
+}
+#yes{
+	float: left;
+	padding-right: 50%;
+}
+#no{
+	float: left;
+padding-left: 50%;
+}
+#btns{
+	font-size: 0.85em;
+	text-align: center;
+
+}
+#btns button{
+	width:95%;
+	font-family: 'stagsanslight';
+	background-color: #189dcd;
+	padding:0.5em;
+	margin-top: 2.8em;
+	color: #edeced;
+	border-radius: 0;
+	
+}
+#footer{
+	text-align: center;
+}
+#etape_1{
+
+}
+#etape_3{
+	background-color:;
+	width:inherit;
+	height: 100%;
+}
+#etape_4{
+	background-color: red;
+		width:inherit;
+	height: 100%;
+}
+#etape_5{
+	background-color: yellow;
+		width:inherit;
+	height: 100%;
+}
+#ascensorFloor0{
+	overflow: hidden;
+
+}
+.fleshbcsep{
+	background: url("../img/bleuF.png") repeat-x scroll 0 493px transparent;
+    height: 100%;
+
+}
+.vide{
+	background: url("../img/bleuF.png") repeat-x transparent;
+    height: 100%;
+}
+#fin1{
+	height: 20px;
+    overflow: hidden;
+    position: absolute;
+    right: -87%;
+    top: 409px;
+    width: 100%;
+;}
+#etape_2{
+	background-position: 1px 409px;
+}
